@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ffdc1994
+- 👀 I’m interested in Games, Music and Coding
+- 🌱 I’m currently learning Android and Kotlin
